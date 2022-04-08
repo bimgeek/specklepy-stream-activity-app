@@ -184,7 +184,7 @@ with graphs:
     #set dimensions of the chart
     fig.update_layout(
         showlegend=False,
-        margin=dict(l=2, r=2, t=2, b=2),
+        margin=dict(l=1, r=1, t=1, b=1),
         height=200,
         yaxis_scaleanchor="x"
         )
